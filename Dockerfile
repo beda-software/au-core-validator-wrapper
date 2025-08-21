@@ -1,4 +1,4 @@
-FROM markiantorno/validator-wrapper:1.0.61-SNAPSHOT
+FROM markiantorno/validator-wrapper:1.0.68
 
 
 RUN echo '{"resourceType": "Patient","meta" : {"profile" : ["http://hl7.org.au/fhir/core/StructureDefinition/au-core-patient"]}}' >> patient.json

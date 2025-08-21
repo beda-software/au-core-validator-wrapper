@@ -1,8 +1,8 @@
 # AU Core Validator Wrapper
 
-**Official wrapper:** 1.0.61-SNAPSHOT
+**Official wrapper:** 1.0.68
 
-**Official validator:** v6.5.5
+**Official validator:** v6.6.3
 
 Official HL7 validator wrapper with an extra step for cache pre-heating. The target usage is resource validation in the Inferno implementation of test suites for the AU Core. Can be used as a standalone validator wrapper without any restrictions.
 
